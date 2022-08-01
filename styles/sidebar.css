@@ -6,7 +6,7 @@
   top: 150px;
   width: 70px;
   height: fit-content;
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.5);
   border-top-left-radius: 35px;
   border-bottom-left-radius: 35px;
   box-shadow: -2px 0px 10px rgba(200, 200, 200, 0.5);
@@ -15,6 +15,7 @@
 }
   .sidebar:hover{
     box-shadow: -2px 0px 12px rgba(180, 180, 180, 0.5);
+    background-color: rgba(255, 255, 255, 0.8);
   }
   .social-medias{
     display: flex;
