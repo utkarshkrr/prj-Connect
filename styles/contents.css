@@ -283,6 +283,7 @@
   .contact{
     display: flex;
     flex-direction: column;
+    width: fit-content;
     color: black;
     font-size: 12px;
     margin-top: 75px;
